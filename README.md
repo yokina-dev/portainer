@@ -1,6 +1,6 @@
 ## - On your Ubuntu Desktop, open a terminal window, and enter the command:
 
-~ sudo curl -fsSL https://get.docker.com |bash ~
+`sudo curl -fsSL https://get.docker.com |bash ~ `
 
 ## - Now lets install Portainer
 
